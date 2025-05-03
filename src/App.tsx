@@ -2,12 +2,15 @@
 import { PropsWithChildren } from "react";
 import './App.scss'
 
+
 function App() {
   
 
   return (
     <>
-       <Main title="What's new?">
+       <Main title={""} >
+
+
       </Main>
     </>
   )
